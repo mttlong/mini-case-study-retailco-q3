@@ -1,0 +1,51 @@
+product_id,product_name,category,price
+P001,Laptop,Electronics,899.99
+P002,Wireless Mouse,Electronics,29.99
+P003,Keyboard,Electronics,79.99
+P004,"Monitor 24""",Electronics,249.99
+P005,"Monitor 27""",Electronics,349.99
+P006,USB Cable,Electronics,12.99
+P007,USB Hub,Electronics,34.99
+P008,Headphones,Electronics,149.99
+P009,Webcam,Electronics,89.99
+P010,Speakers,Electronics,79.99
+P011,External SSD 500GB,Electronics,69.99
+P012,External SSD 1TB,Electronics,109.99
+P013,Tablet,Electronics,449.99
+P014,Smartphone Stand,Electronics,24.99
+P015,Power Bank,Electronics,39.99
+P016,Desk Chair,Furniture,199.99
+P017,Standing Desk,Furniture,449.99
+P018,Desk Lamp,Furniture,45.99
+P019,Filing Cabinet,Furniture,129.99
+P020,Bookshelf,Furniture,89.99
+P021,Monitor Stand,Furniture,49.99
+P022,Footrest,Furniture,35.99
+P023,Cable Management Kit,Furniture,19.99
+P024,Desk Organizer,Furniture,29.99
+P025,Whiteboard,Furniture,59.99
+P026,Corkboard,Furniture,24.99
+P027,Plant Pot,Furniture,15.99
+P028,Desk Mat,Furniture,29.99
+P029,Ergonomic Cushion,Furniture,44.99
+P030,Wall Clock,Furniture,34.99
+P031,Notebook Set,Stationery,15.99
+P032,Pen Pack (10),Stationery,8.99
+P033,Pen Pack (20),Stationery,14.99
+P034,Sticky Notes,Stationery,5.99
+P035,Printer Paper (500),Stationery,24.99
+P036,Printer Paper (1000),Stationery,44.99
+P037,Highlighters,Stationery,7.99
+P038,Markers,Stationery,12.99
+P039,Stapler,Stationery,9.99
+P040,Staples (5000),Stationery,4.99
+P041,Paper Clips,Stationery,3.99
+P042,Binder Clips,Stationery,5.99
+P043,Folders (10),Stationery,8.99
+P044,Binders (3),Stationery,14.99
+P045,Labels,Stationery,11.99
+P046,Envelopes (100),Stationery,9.99
+P047,Scissors,Stationery,6.99
+P048,Tape Dispenser,Stationery,8.99
+P049,Correction Tape,Stationery,4.99
+P050,Planner,Stationery,19.99
